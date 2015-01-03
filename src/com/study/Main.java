@@ -9,6 +9,7 @@ public class Main {
 		System.out.println(cal.subtract());
 		System.out.println(cal.multiply());
 		System.out.println(cal.divide());
+		System.out.println();
 		
 	}
 
